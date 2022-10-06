@@ -1,2 +1,3 @@
 # 03_Calculator
-One of few projects to test my skills.
+### Project to test my skills
+This is one of few projects with which I wanted to test and try myself in coding some basic functionalities.
